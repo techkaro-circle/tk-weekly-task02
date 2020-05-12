@@ -1,6 +1,6 @@
 # Weekly Project - 02
 
-Task guidelines for first weekly project.
+Task guidelines for second weekly project.
 
 **Dated: 13th May 2020**
 
