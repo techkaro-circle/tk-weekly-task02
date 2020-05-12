@@ -79,4 +79,4 @@ Basic form mockup
 
 Error handling mockup 
 
-![ERROR-HANDLING-MOCKUP](mockups/Error-Display-mockup.png)
+![ERROR-HANDLING-MOCKUP](mockups/Error-Display-mockup.PNG)
