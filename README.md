@@ -69,5 +69,14 @@ Please ensure that no milestone is left incomplete. Further if you have difficul
 ##### Milestone #8: 
 > When you click on any input, the placeholder there should be showed on the input box.
 
-
 ###### GOOD LUCK!
+
+##### MOCKUP IMAGE ATTACHED BELOW
+
+Basic form mockup 
+
+![MOCKUP](mockups/Basic mockup.png)
+
+Error handling mockup 
+
+![MOCKUP](mockups/Error Display - mockup.png)
