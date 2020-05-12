@@ -75,7 +75,7 @@ Please ensure that no milestone is left incomplete. Further if you have difficul
 
 Basic form mockup 
 
-![MOCKUP](mockups/Basic mockup.png)
+![MOCKUP](mockups/Basic mockup.PNG)
 
 Error handling mockup 
 
